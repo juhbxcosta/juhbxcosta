@@ -3,6 +3,7 @@
 Meu nome é Júlia Vitóra 🥀
 
  ✰Estou estudando no alura
+ 
  ✰Estou me desenvolvendo na linguagem JavaScript
 
 ### Para entrar em contato comigo
