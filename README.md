@@ -9,4 +9,4 @@ Meu nome é Júlia Vitóra 🥀
 ### Para entrar em contato comigo
 
 00001114683450@al.educacao.sp.gov.br
-@juhbx__costa
+
